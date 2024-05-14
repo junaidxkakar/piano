@@ -1,0 +1,42 @@
+.ppp{
+    
+   padding-left: 200px;
+    width: 300px;
+    margin: auto;
+    border-bottom: 3px solid black;
+   
+    
+}
+#aaa{
+    width: 25px;
+    margin: 30px;
+}
+#bbb{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 27px;
+    margin: 10PX;
+}
+#ccc{
+    font-family:'Courier New', Courier, monospace
+}
+#ddd{
+    width: 500px;
+    word-spacing: 40px;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#eee{
+    font-family: 'Courier New', Courier, monospace;
+    width: 485px;
+    margin: 0 auto;
+    padding: 14px;
+}
+.container{
+    border: 2px solid black;
+    box-shadow: 10px 10px;
+    width: 600px;
+    margin: auto;
+    background-color: antiquewhite;
+    
+}
